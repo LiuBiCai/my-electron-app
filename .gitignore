@@ -5,3 +5,4 @@ coverage
 .tokens.test.json
 .tokens.json.*
 .idea
+out
